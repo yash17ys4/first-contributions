@@ -27,6 +27,7 @@ Rajesh Verma
 - [SteveMarshall](https://github.com/marshast)
 - [axux](https://github.com/axux)
 - [Swarup Rajbhandari](https://github.com/swarup182)
+- [YAsh soni](https://github.com/yash17ys4)
 - [HalmosiGabor](https://github.com/halmosigabor)
 - [Shivam Kumar](https://github.com/shivampkumar)
 - [Abhiraj Tulsyan](https://github.com/abhirajtulsyan)
