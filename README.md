@@ -18,6 +18,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [🇲🇲](translations/README.mm_unicode.md)
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)
+- [YAsh soni](https://github.com/yash17ys4)
 [🇪🇸](translations/README.es.md)
 [<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
 [🇳🇱](translations/README.nl.md)
