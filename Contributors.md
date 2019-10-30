@@ -30,6 +30,7 @@ Rajesh Verma
 - [HalmosiGabor](https://github.com/halmosigabor)
 - [Shivam Kumar](https://github.com/shivampkumar)
 - [Abhiraj Tulsyan](https://github.com/abhirajtulsyan)
+- [YAsh soni](https://github.com/yash17ys4)
 - [Harsh Khajuria](https://github.com/horcrux2301)
 - [Michal Siemienowicz](https://github.com/MichalSiemienowicz)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
