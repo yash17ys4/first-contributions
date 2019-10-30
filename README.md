@@ -23,6 +23,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 [<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
 [🇳🇱](translations/README.nl.md)
 [🇱🇹](translations/README.lt.md)
+jbchdj
 [🇷🇺](translations/README.ru.md)
 [:slovakia:](translations/README.slk.md)
 [🇯🇵](translations/README.ja.md)
